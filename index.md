@@ -1,3 +1,4 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+Oh man! This github platform is annoying tough to work with.
+What do you think?
